@@ -7,7 +7,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "End-End-MLflow-Project"
 AUTHOR_USER_NAME = "mjsplendid"
-SRC_REPO = "MLearning-Project"
+SRC_REPO = "MLearning_Project"
 AUTHOR_EMAIL = "mjsplendid@gmail.com"
 
 
